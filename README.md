@@ -12,7 +12,7 @@ Use AMO unlisted/self-distribution signing:
 
 1. Sign in at Mozilla Developer Hub.
 2. Choose Submit a New Add-on → On your own.
-3. Upload  notion-web-clipper-0.3.3.xpi .
+3. Upload  notion-web-clipper-0.3.4.xpi .
 4. Complete validation and select Firefox Desktop.
 5. Download the signed XPI when Mozilla approves it.
 6. Open the signed file in Firefox for permanent installation.
